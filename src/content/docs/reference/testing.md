@@ -28,5 +28,5 @@ public class GettingSoftware
 }
 ```
 
-What does this test do?
+Write what you understand about this code. What is Alba? Where did that come from? What is `Program`?
 
